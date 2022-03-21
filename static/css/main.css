@@ -1,0 +1,9 @@
+*{
+    font-family: sans-serif;
+}
+    
+#submitbutton{
+    color:aqua;
+    border-radius: 25px;
+    border: none;
+}
