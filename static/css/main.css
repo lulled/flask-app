@@ -2,7 +2,7 @@
     font-family: sans-serif;
 }
     
-#submitbutton{
+.submitbutton{
     color:aqua;
     border-radius: 25px;
     border: none;
